@@ -116,6 +116,6 @@ The app ensures efficient role-based access control, enhancing security and scal
 ## **Acknowledgments**  
 This project has been a tremendous learning opportunity. It helped enhance my understanding of React, Tailwind CSS, and creating user-centric designs.  
 
-I extend my gratitude to **VRV Security** for the chance to work on this project. I look forward to expanding its scope and making more meaningful contributions in the future.
+I extend my gratitude to **VRV Security** for the chance to work on this project. I look forward to expanding its scope and making more meaningful contributions in the future..
 
 
